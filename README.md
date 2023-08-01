@@ -30,6 +30,7 @@ Agradeço por visitar meu perfil e espero que você encontre algo útil e intere
 <img style=width:50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img style=width:50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img style=width:50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img style=width:50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3o3&show_icons=true&theme=dark)
 
